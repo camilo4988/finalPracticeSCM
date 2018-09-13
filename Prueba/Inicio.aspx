@@ -76,7 +76,7 @@
         </div>
     </div>   
     <footer class="clase-general">
-        <p>Implementado y desarrollado por Kevin y Pascual</p>
+        <p>SCM 2018 123</p>
     </footer>          
 </body>
 </html>
